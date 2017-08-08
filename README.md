@@ -1,1 +1,1 @@
-# django-turnitin
+# Django Turnitin
